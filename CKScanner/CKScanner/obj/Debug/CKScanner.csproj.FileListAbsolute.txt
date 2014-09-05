@@ -1,0 +1,1 @@
+D:\git\CK-Scanner\CKScanner\CKScanner\bin\Debug\CKScanner.exe.config
