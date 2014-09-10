@@ -1,1 +1,6 @@
 D:\git\CK-Scanner\CKScanner\CKScanner\bin\Debug\CKScanner.exe.config
+D:\git\CK-Scanner\CKScanner\CKScanner\bin\Debug\CKScanner.exe
+D:\git\CK-Scanner\CKScanner\CKScanner\bin\Debug\CKScanner.pdb
+D:\git\CK-Scanner\CKScanner\CKScanner\obj\Debug\CKScanner.csprojResolveAssemblyReference.cache
+D:\git\CK-Scanner\CKScanner\CKScanner\obj\Debug\CKScanner.exe
+D:\git\CK-Scanner\CKScanner\CKScanner\obj\Debug\CKScanner.pdb
